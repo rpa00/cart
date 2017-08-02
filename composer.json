@@ -1,0 +1,22 @@
+{
+  "name": "rpa00/cart",
+  "description": "",
+  "keywords": [
+  ],
+  "homepage": "https://github.com/rpa00/cart",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0",
+    "illuminate/support": "*",
+    "illuminate/foundation": "*"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "TestCart\\" : "src/"
+    }
+  },
+  "autoload-dev": {
+  }
+}
